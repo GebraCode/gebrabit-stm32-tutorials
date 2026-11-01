@@ -1,0 +1,5 @@
+{
+  "type": "submodule",
+  "sha": "953955afe65f89e60e556bbcdba752597f5da65d",
+  "submodule_git_url": "https://github.com/STMicroelectronics/stm32f3xx_hal_driver.git"
+}
