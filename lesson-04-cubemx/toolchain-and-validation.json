@@ -1,0 +1,31 @@
+{
+  "device": "STM32F303CBT6",
+  "package": "LQFP48",
+  "cubemx_version": "6.14.0",
+  "cubemx_db": "DB.6.0.140",
+  "stm32cubef3_version": "1.11.6",
+  "stm32cubef3_commit": "663d2baae3604244f90ed80d0d757df17e36ada9",
+  "hal_driver_submodule_commit": "953955afe65f89e60e556bbcdba752597f5da65d",
+  "hal_reference_method": "RCC driver SHA256 matches previously verified CubeF3 v1.11.6 package driver",
+  "hal_rcc_sha256": "e7d83d2d4d88352b0fdb85cd807b7b3eeee061f1a268b720d686e6f09dfa9e20",
+  "compiler": "arm-none-eabi-gcc 13.2.1 20231009",
+  "compiler_options": "-Wall -Werror",
+  "build": "CMake Debug, clean rebuild, zero warnings",
+  "cubeide_execution_validated": false,
+  "hardware_tested": false,
+  "sysclk_source": "HSI",
+  "sysclk_hz": 8000000,
+  "flash_bytes": 7932,
+  "ram_region_used_bytes": 1584,
+  "data_section_bytes": 12,
+  "bss_section_bytes": 36,
+  "minimum_heap_reserved_bytes": 512,
+  "minimum_stack_reserved_bytes": 1024,
+  "ram_measurement_note": "Linker region usage, not measured runtime peak. 12 data + 36 bss + 512 minimum heap + 1024 minimum stack = 1584 bytes. The size tool bss total includes NOLOAD heap/stack reservation.",
+  "pins": {
+    "PA13": "SWDIO",
+    "PA14": "SWCLK",
+    "PB6": "USER_LED output, push-pull, no pull, medium speed; initial low"
+  },
+  "regeneration_experiment": "GPIO speed Low to Medium; protected variable and assignment retained; outside comment removed"
+}

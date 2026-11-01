@@ -1,0 +1,11 @@
+{
+  "build-report.txt": "0d05f4b79a6a9de0d6ddf6f17f53d641641004c3e700c1f10f8670da547ae22b",
+  "cubemx-project-workflow.png": "40d3fec871750b37c9eebf78804f9fe8cfb3909c9836a00aac62f3774b9fd567",
+  "cubemx-user-code-regeneration.png": "de464dd3b79f4f82451f8fc2dc772888578629cc9750c2ae9c8b73a554117bee",
+  "lesson-04-project.zip": "16d12c1c6e9606b2dca3b3a9eaf53115c45bfddfe0b15a5bddc5f2a50571bbb5",
+  "README.md": "6f85118043bcd776962940276de47d5f59cf3ec943365a87429cf2ea5ad4db82",
+  "toolchain-and-validation.json": "a70c55ee2e5467e01026966d63493df5cc8ddee6dad09e7a6ccec5979b08d32d",
+  "verify_regeneration.py": "734dfc3480c6f62c8fbeed76d90bc868265da2ae55453e9e28e1f8278d75d75a",
+  "regeneration-evidence/main-after.c": "0babb4b7307eac1c84ab4f6559ab993106052e60056d2c2b3cb0f29aad172d14",
+  "regeneration-evidence/main-before.c": "700b02332c4b45fc535789030edde75b3b8e150d1183ea8e1b7737f38a64ba17"
+}
