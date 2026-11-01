@@ -1,0 +1,44 @@
+[
+  {
+    "title": "RM0316",
+    "url": "https://www.st.com/resource/en/reference_manual/DM00043574.pdf",
+    "claim": "Embedded SRAM section: CCM SRAM is CPU-only, no DMA access",
+    "checked": "2026-11-01"
+  },
+  {
+    "title": "STM32 portfolio",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html",
+    "claim": "Representative family categories only; not exhaustive",
+    "checked": "2026-11-01"
+  },
+  {
+    "title": "DS9118 Rev 14",
+    "url": "https://www.st.com/resource/en/datasheet/stm32f303cb.pdf",
+    "claim": "Table 87 part decoding; Table 2 exact CB memory; package/pin details",
+    "checked": "2026-11-01"
+  },
+  {
+    "title": "ST selection guide",
+    "url": "https://dev.st.com/stm32cube-docs/stm32cube-getting-started/1.1.1/en/markup/Ecosystem_Select/Ecosystem_Select_MCU_Board.html",
+    "claim": "Current web selector preferred; classic CubeMX catalogue may omit latest products",
+    "checked": "2026-11-01"
+  },
+  {
+    "title": "ST MCU product selector",
+    "url": "https://www.st.com/content/st_com/en/stm32-mcu-product-selector.html",
+    "claim": "Current selection entry point",
+    "checked": "2026-11-01"
+  },
+  {
+    "title": "ST-MCU-FINDER-PC DB3190 Rev 6",
+    "url": "https://www.st.com/resource/en/data_brief/st-mcu-finder-pc.pdf",
+    "claim": "Historical desktop tool; not evidence of current catalogue support",
+    "checked": "2026-11-01"
+  },
+  {
+    "title": "GebraBit GB100ST schematic V2.0",
+    "url": "https://gebrabit.com/wp-content/uploads/2024/07/GebraBit-STM32F303-Schematic-V2.0.pdf",
+    "claim": "Course board and MCU identity; board-specific connections",
+    "checked": "2026-11-01"
+  }
+]

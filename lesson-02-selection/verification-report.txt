@@ -1,0 +1,8 @@
+Lesson 2 verification
+Python: 3.12.14
+verify_buffer.py: exit 0
+Output: buffer-results.json
+No MCU firmware generated or compiled.
+No board measurement performed.
+Two PNG diagrams are original conceptual artwork, not application screenshots.
+Selection worksheet is a template; blank candidate fields are not verified part selections.

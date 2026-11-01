@@ -1,0 +1,7 @@
+{
+  "scenario": "hypothetical buffer only",
+  "samples": 1024,
+  "bytes_per_sample": 2,
+  "buffer_bytes": 2048,
+  "buffer_kib": 2.0
+}

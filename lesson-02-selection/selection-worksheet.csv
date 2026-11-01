@@ -1,0 +1,4 @@
+﻿project,mandatory_requirements,initial_family_candidates,exact_part_number,datasheet_revision_and_section,pin_AF_check,memory_budget,power_budget,supplier_quote_date_quantity_leadtime,decision_and_unresolved_checks
+Wired controller,1 UART; 8 application GPIO; reserve debug and power pins,STM32C0 / STM32G0,,,,,,,
+Battery logger,1 I2C; RTC; periodic wakeup; define battery and lifetime target,STM32U0 / STM32U5,,,,,,,
+Analog control,4 ADC input channels; 2 PWM outputs; define sample rate and accuracy,STM32F303 / STM32G4,,,,,,,
