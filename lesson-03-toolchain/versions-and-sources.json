@@ -1,0 +1,24 @@
+{
+  "checked_date": "2026-11-01",
+  "catalog_not_local_install": {
+    "STM32CubeIDE_Eclipse": "2.2.0",
+    "STM32CubeMX_classic": "6.18.1"
+  },
+  "course_generation_baseline": {
+    "STM32CubeMX": "6.14.0",
+    "CubeMX_database": "6.0.140",
+    "STM32CubeF3": "V1.11.6",
+    "STM32CubeF3_commit": "663d2baae3604244f90ed80d0d757df17e36ada9",
+    "Arm_GNU_GCC": "13.2.1"
+  },
+  "local_CubeIDE_installation_verified": false,
+  "firmware_build_in_this_lesson": false,
+  "hardware_test": false,
+  "note": "Catalog versions and previously generated course backend versions are distinct. Record actual installed IDE/compiler versions in the checklist. No claim of compatibility testing of this complete desktop tool combination.",
+  "sources": {
+    "IDE": "https://www.st.com/en/development-tools/stm32cubeide.html",
+    "CubeMX": "https://www.st.com/en/development-tools/stm32cubemx.html",
+    "CubeF3": "https://github.com/STMicroelectronics/STM32CubeF3/tree/663d2baae3604244f90ed80d0d757df17e36ada9",
+    "driver": "https://www.st.com/en/development-tools/stsw-link009.html"
+  }
+}

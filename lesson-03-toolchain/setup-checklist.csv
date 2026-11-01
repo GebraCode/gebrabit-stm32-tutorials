@@ -1,0 +1,10 @@
+﻿item,expected_evidence,observed_version_or_path,status
+STM32CubeIDE Eclipse,Application starts; exact version from Help/About,,pending
+Workspace,Writable local folder opens without lock error,,pending
+STM32CubeMX standalone,Application starts independently; version recorded,,pending
+STM32CubeF3,Package manager lists V1.11.6 installed; path recorded,,pending
+STM32CubeProgrammer,Application starts; exact version recorded,,pending
+ST-LINK USB driver,STSW-LINK009 installed where required; Device Manager recognition when probe available,,pending
+Compiler,Record exact version from first real project build log in next lesson,,pending
+First firmware build,Not performed in this installation lesson,,not_applicable
+Hardware run,Not performed in this installation lesson,,not_applicable
