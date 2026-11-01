@@ -1,0 +1,9 @@
+﻿item,schematic_evidence,board_observation,confirmed_or_pending
+MCU,IC1: STM32F303CBT6 / LQFP48,,pending
+Main oscillator,"8 MHz, OSC_IN / OSC_OUT",,pending
+RTC oscillator,"32.768 kHz, PC14 / PC15",,pending
+Power,5V input and 3V3 rail; do not connect power in this exercise,,pending
+USER LED,"PB6, through transistor; distinct from POWER LED",,pending
+USER button,PA3,,pending
+BOOT_SEL,BOOT0; default GND according to schematic note,,pending
+Debug header,PA13 SWDIO / PA14 SWCLK / PB3 SWO / RESET / GND,,pending

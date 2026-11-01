@@ -1,0 +1,14 @@
+{
+  "part": "STM32F303CBT6",
+  "bytes_per_kib": 1024,
+  "bits_per_byte": 8,
+  "flash_bytes": 131072,
+  "main_sram_bytes": 32768,
+  "ccm_bytes": 8192,
+  "total_volatile_ram_bytes": 40960,
+  "total_volatile_ram_kib": 40,
+  "example_uint32_buffer_elements": 1024,
+  "example_buffer_bytes": 4096,
+  "main_sram_after_buffer_only_bytes": 28672,
+  "note": "Illustrative budget only; stack, globals, heap and alignment are not subtracted. Not measured free RAM."
+}

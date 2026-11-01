@@ -1,0 +1,11 @@
+{
+  "part": "STM32F303CBT6",
+  "board": "GebraBit GB100ST V2.0",
+  "source": "ST DS9118 Rev 14, Table 2: device comparison, STM32F303xB column",
+  "source_url": "https://www.st.com/resource/en/datasheet/stm32f303cb.pdf",
+  "flash_kib": 128,
+  "main_sram_kib": 32,
+  "ccm_kib": 8,
+  "buffer_elements": 1024,
+  "buffer_element_bytes": 4
+}
